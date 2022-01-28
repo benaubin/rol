@@ -1,5 +1,10 @@
 [package]
 name = "rol"
+description = "replicated object log"
+license = "Apache-2.0"
+documentation = "https://docs.rs/rol"
+repository = "https://github.com/benaubin/rol"
+homepage = "https://crates.io/crates/rol"
 version = "0.1.0"
 edition = "2021"
 
